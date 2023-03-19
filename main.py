@@ -9,7 +9,7 @@ import os
 TCPING_PATH = 'tcping.exe'
 
 # 设置要查找的ip段
-IP_BASE = '183.27.'
+IP_BASE = '*.*.'
 IP_START = 200
 IP_END = 255
 
